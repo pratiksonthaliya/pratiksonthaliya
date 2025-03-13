@@ -1,6 +1,13 @@
-# 💫 About Me:
-🚀 Hi, I'm Pratik! A passionate Full Stack Developer currently working as an SDE at Fastenal India. I love solving challenging problems and building scalable web applications.<br><br>💡 Tech Stack: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, GraphQL, PostgreSQL, MongoDB, Redis, Prisma, Docker, AWS, Vercel, CI/CD.<br><br>⚡ What I Do:<br><br>Backend Development with Node.js & PostgreSQL<br>Frontend Engineering with React & Next.js<br>Cloud & DevOps with Docker, AWS, Vercel<br>API Development (REST & GraphQL)<br>System Design & Database Optimization
+<!-- Social connections -->
+<div align="center">
+  
+## 🌐 Connect with Me 🍬
+[![GitHub pratiksonthaliya](https://img.shields.io/github/followers/pratiksonthaliya?label=follow&style=social)](https://github.com/pratiksonthaliya)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratiksonthaliya)
+ [![Twitter: SonthaliyaP](https://img.shields.io/twitter/follow/SonthaliyaP?style=social)](https://twitter.com/SonthaliyaP)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratiksonthaliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonthaliyap@gmail.com) 
 
+</div>
 
 <!-- Stats -->
 <div align="center">
@@ -19,29 +26,10 @@
 </div>
 
 
-<!-- Social connections -->
-<div align="center">
-  
-## 🌐 Connect with Me 🍬
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratiksonthaliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratiksonthaliya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SonthalliyaP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonthaliyap@gmail.com) 
-
-</div>
-
-
 <!-- Snake Animation -->
 <div align="center">
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
 
-
-<!-- Visit Counter -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=pratiksonthaliya&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-<!-- Visit Counter -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=pratiksonthaliya&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
 
